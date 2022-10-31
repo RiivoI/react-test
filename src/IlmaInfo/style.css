@@ -1,0 +1,12 @@
+.LahiPaev {
+    color: rgba(201, 0, 0, 0.799);
+    margin-top: 60px;
+}
+
+.IlmaEnnustus {
+    color:rgba(201, 0, 0, 0.799);
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5px;
+    margin-right: 19px;
+}
