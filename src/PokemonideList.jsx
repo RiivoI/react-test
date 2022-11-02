@@ -1,4 +1,4 @@
-import './app.css'
+import './App.css'
 
 const PokemonideListiElement = (props) => {
     return (
